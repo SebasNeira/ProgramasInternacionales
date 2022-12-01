@@ -1,0 +1,45 @@
+/* Move block container higher */
+div.block-container.css-18e3th9.egzxvld2 {
+  margin-top: -5em;
+}
+
+/* Adjustments for the logo image*/
+
+img {
+  display: block;
+  margin-top: 1.5em;
+}
+
+
+/* Indicadores */
+div.css-ocqkz7.e1tzin5v4 {
+    background-color: #5d7eac89;
+    border: 1px solid #343a4184;
+    padding: 2% 3% 2% 3%;
+    border-radius: 20px;
+
+    border-left: 0.5rem solid #fc3f93 !important;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15) !important;
+}
+
+div.css-50ug3q{
+  text-align: center;
+}
+
+/* Hide hamburger menu and footer */
+div.css-14xtw13.e8zbici0 {
+  display: none;
+}
+
+footer.css-ipbk5a.egzxvld0 {
+  display: none;
+}
+
+footer.css-12gp8ed.eknhn3m4 {
+  display: none;
+}
+
+div.vg-tooltip-element {
+  display: none;
+}
+

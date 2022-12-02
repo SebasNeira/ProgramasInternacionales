@@ -3,6 +3,5 @@ pandas
 numpy
 plotly
 datetime
-json
 streamlit_lottie
 PIL
